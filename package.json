@@ -6,7 +6,7 @@
         "learning",
         "git practice",
         "npm packages",
-        "freeCodeCamp"
+        "freecodecamp"
     ],
     "dependencies": {
         "express": "^4.14.0"
