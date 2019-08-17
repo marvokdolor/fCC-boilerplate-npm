@@ -2,6 +2,11 @@
     "name": "fcc-learn-npm-package-json",
     "author": "Marvo Dolor",
     "description": "A project that does something awesome",
+    "keywords": [
+        "learning",
+        "git practice",
+        "npm packages"
+    ],
     "dependencies": {
         "express": "^4.14.0"
     },
